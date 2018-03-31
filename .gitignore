@@ -5,7 +5,8 @@
 
 # 현재 디렉토리에 있는 TODO파일은 무시하고 subdir/TODO처럼 하위디렉토리에 있는 파일은 무시하 지 않음 /TODO 
 
-# build/ 디렉토리에 있는 모든 파일은 무시 build/ 
+# build/ 디렉토리에 있는 모든 파일은 무시 
+build/ 
 
 # doc/notes.txt 파일은 무시하고 doc/server/arch.txt 파일은 무시하지 않음 doc/*.txt 
 
